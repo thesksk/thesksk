@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Sanket Kondhalkar</h1>
 <h3 align="center">I am a highly skilled data analyst and scientist with an IBM certification in both Data Science and Analysis.</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/oaglaatp/production/3ab5bab7a6b794c1858673c0929560c8533f097e-1200x800.png?w=1200"
+
 
 <p align="left"> <a href="https://twitter.com/sanketkondhal6" target="blank"><img src="https://img.shields.io/twitter/follow/sanketkondhal6?logo=twitter&style=for-the-badge" alt="sanketkondhal6" /></a> </p>
 
