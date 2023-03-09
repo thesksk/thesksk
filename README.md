@@ -1,39 +1,4 @@
-### Hi there 👋
-
-<!--
-**thesksk/thesksk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Sanket Kondhalkar</h1>
-<h3 align="center">I am a highly skilled data analyst and scientist with an IBM certification in both Data Science and Analysis.</h3>
-
-
-<p align="left"> <a href="https://twitter.com/sanketkondhal6" target="blank"><img src="https://img.shields.io/twitter/follow/sanketkondhal6?logo=twitter&style=for-the-badge" alt="sanketkondhal6" /></a> </p>
-
-- 🔭 I’m currently working on **Data science**
-
-- 🌱 I’m currently learning **Java DSA , ML**
-
-- 👨‍💻 All of my projects are available at [https://medium.com/@sanketkondhalkar803/a-beginners-guide-to-exploratory-data-analysis-in-data-science-acb554efb6fd](https://medium.com/@sanketkondhalkar803/a-beginners-guide-to-exploratory-data-analysis-in-data-science-acb554efb6fd)
-
-- 💬 Ask me about **Data science & Analysis**
-
-- 📫 How to reach me **sanketkondhalkar803@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/sanketkondhalkar](www.linkedin.com/in/sanketkondhalkar)
-
-- ⚡ Fun fact **I Think I have great sense of humor**
+*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
